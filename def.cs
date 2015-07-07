@@ -2,13 +2,13 @@ namespace HWdefs
 {
     enum eListLenght
     {
-        MAX_LIST_ERRORS = 128,  // must be a power of 2
+        MAX_LIST_LNG = 128,  // must be a power of 2
     }
 }
 
 namespace GUIdefs
 {
-    public struct CNTRERROR
+    public struct FIFOexample
     {
 		public int nST;
         public ushort nError;
