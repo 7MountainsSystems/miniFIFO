@@ -1,6 +1,6 @@
 # miniFIFO
 
-complete FIFO class in 11 lines
+complete FIFO class in 11 lines 
 
 1. Define the FIFO length in eListLenght.MAX_LIST_LNG 
     - It MUST be a power of 2!
